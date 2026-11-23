@@ -1,0 +1,14 @@
+{
+  "name": "app-store-answer-check",
+  "owner": {
+    "name": "The Ask Why Company",
+    "url": "https://github.com/theaskwhy"
+  },
+  "plugins": [
+    {
+      "name": "app-store-answer-check",
+      "source": "./",
+      "description": "Use before submitting a mobile app to the Apple App Store, Google Play or Samsung Galaxy Store \u2014 to verify privacy labels, data safety, age rating answers and listing claims against what the code actually does."
+    }
+  ]
+}
